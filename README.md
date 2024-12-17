@@ -10,12 +10,12 @@
 
 <!-- Statistik dan Social Links -->
 <p align="center">
-  <a href="https://github.com/[username]">
-    <img src="https://komarev.com/ghpvc/?username=[username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/rifaldo-dev">
+    <img src="https://komarev.com/ghpvc/?username=rifaldo-dev]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://twitter.com/[username]">
+  <!--<a href="https://rifaldo.vercel.app/tentang.html">
     <img src="https://img.shields.io/twitter/follow/[username]?logo=twitter&style=flat-square" alt="twitter" />
-  </a>
+  </a> -->
 </p>
 
 ---
