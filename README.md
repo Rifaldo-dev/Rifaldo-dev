@@ -1,70 +1,100 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm M. Rifaldo Saputra</h1>
-<h3 align="center">A passionate developer from indonesia</h3>
-
-<!-- Deskripsi Singkat -->
-<p align="center">
-  Saya seorang pengembang yang fokus pada [spesialisasi atau bidang seperti Frontend, Backend, AI, dsb.]. 
-  Saya senang membuat solusi yang bermanfaat dan belajar teknologi baru.
-</p>
-
-<!-- Statistik dan Social Links -->
-<p align="center">
-  <a href="https://github.com/rifaldo-dev">
-    <img src="https://komarev.com/ghpvc/?username=rifaldo-dev]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <!--<a href="https://rifaldo.vercel.app/tentang.html">
-    <img src="https://img.shields.io/twitter/follow/[username]?logo=twitter&style=flat-square" alt="twitter" />
-  </a> -->
-</p>
+<h1 align="center">Hi 👋, I'm Rifaldo</h1>
+<h3 align="center">Mahasiswa Sistem Informasi | Full Stack Developer | Tech Enthusiast</h3>
 
 ---
 
-### 🔧 **Languages and Tools:**
-<p align="left">
-  <!-- Contoh ikon -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <!-- Tambahkan ikon teknologi lainnya di sini -->
-</p>
+### 🎓 **Pendidikan:**
+- 📚 **Mahasiswa Sistem Informasi** di **Universitas Metamedia**  
+- 🛠️ **Siswa Teknik Jaringan Komputer dan Telekomunikasi** di **SMKN 1 Kinali**  
+- 🏫 **Siswa SMPN 1 Luhak Nan Duo**  
+- 🏫 **Siswa SDN 05 Luhak Nan Duo**  
+
+---
+
+### 💻 **Minat dan Keahlian:**
+Saya memiliki minat yang besar di bidang:  
+- Pemrograman **Full Stack**  
+- **IoT (Internet of Things)**  
+- **Machine Learning**  
+- **Data Science**  
+- **Cyber Security**  
+- **Web Development**  
+- **Networking**  
+
+---
+
+### 🛠️ **Keterampilan:**
+
+**Frontend Development:**  
+- HTML, CSS, Bootstrap, Bulma  
+
+**Backend Development:**  
+- PHP, Python, Laravel  
+
+**Database:**  
+- MySQL, SQLite3  
+
+**Networking & Infrastruktur:**  
+- Mikrotik, Cisco Packet Tracer  
+
+**Frameworks & Tools:**  
+- Laravel, Django, Bootstrap, Bulma  
+
+**Operating System:**  
+- Ubuntu, Debian, Windows  
+
+**Tools & Teknologi Tambahan:**  
+- Git, API Integration, Web Scraping  
 
 ---
 
 ### 📊 **GitHub Stats:**
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight" alt="[username] stats" />
+  <!-- Stats utama -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rifaldo-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="rifaldo-dev's GitHub stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight" alt="[username] streak" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rifaldo-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="rifaldo-dev's streak" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=tokyonight" alt="[username] top langs" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldo-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <!-- Contributions Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rifaldo-dev&theme=tokyo-night&hide_border=true" alt="rifaldo-dev's GitHub Activity Graph" />
+</p>
+<p align="center">
+  <!-- Wakatime (opsional jika Anda menggunakan) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rifaldo-dev&theme=tokyonight&hide_border=true" alt="rifaldo-dev's Wakatime stats" />
 </p>
 
 ---
 
-### 🌱 **Saya Sedang Belajar:**
-- Saya memiliki minat yang besar di bidang: Pemrograman **Full Stack**, **IoT** (Internet of Things), **Machine Learning**, **Data Science**, **Cyber Security**, **Web Development dan Networking.**.
+### 🌱 **Tujuan Saya:**
+Mengembangkan kemampuan dalam teknologi, mengasah kreativitas, serta membangun solusi teknologi yang inovatif dan bermanfaat.
 
 ---
 
-### 📫 **Hubungi Saya:**
-- **Email**: [muhammadrifaldosaputra@gmail.com](mailto:muhammadrifaldosaputra@gmail.com)
-- **Telegram**: [t.me/aku_aldo](https://t.me/aku_aldo)
-- **Telegram**: [instagram.com/rifaldo.dev](https://instagram.com/rifaldo.dev)
-- **My Blog**: [rifaldo.tech](https://rifaldo.tech)
+### ✨ **Motivasi:**
+> "Ada banyak jalan menuju Roma, begitu juga dalam belajar teknologi. Tidak ada satu cara yang benar, setiap orang memiliki jalannya sendiri. Teruslah mengeksplorasi, berinovasi, dan belajar dari berbagai pengalaman. Bersabar, gigih, dan percayalah bahwa setiap langkah kecil membawa kita lebih dekat ke tujuan besar."
 
 ---
 
-### ⚡ **Fun Fact:**
-> "Setiap baris kode yang saya tulis adalah langkah menuju masa depan yang lebih baik!"
+### 📫 **Sosial Media dan Kontak:**
+- 🔗 **GitHub**: [rifaldo-dev](https://github.com/rifaldo-dev)  
+- 📸 **Instagram**: [@rifaldo.dev](https://instagram.com/rifaldo.dev)  
+- 📝 **Blog**: [rifaldo.tech](https://rifaldo.tech)  
+- 💬 **Telegram**: [@aku_aldo](https://t.me/aku_aldo)  
 
 ---
 
+### 🔥 **Progress Coding:**
+Tetap jaga streak Anda dan jangan lupa mengejar progress coding harian!  
+
+---
+
+<p align="center">Made with ❤️ by Rifaldo</p>
