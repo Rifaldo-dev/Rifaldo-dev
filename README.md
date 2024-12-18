@@ -55,21 +55,22 @@ Saya memiliki minat yang besar di bidang:
   <!-- Stats utama -->
   <img src="https://github-readme-stats.vercel.app/api?username=rifaldo-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="rifaldo-dev's GitHub stats" />
 </p>
+
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rifaldo-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="rifaldo-dev's streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rifaldo-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  </a>
 </p>
+
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldo-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 <p align="center">
   <!-- Contributions Graph -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rifaldo-dev&theme=tokyo-night&hide_border=true" alt="rifaldo-dev's GitHub Activity Graph" />
-</p>
-<p align="center">
-  <!-- Wakatime (opsional jika Anda menggunakan) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rifaldo-dev&theme=tokyonight&hide_border=true" alt="rifaldo-dev's Wakatime stats" />
 </p>
 
 ---
