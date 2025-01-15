@@ -56,6 +56,11 @@ Saya memiliki minat yang besar di bidang:
   <img src="https://github-readme-stats.vercel.app/api?username=rifaldo-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="rifaldo-dev's GitHub stats" />
 </p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rifaldo-dev&theme=darcula&locale=id)](https://git.io/streak-stats)
+
+
+
 <p align="center">
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
