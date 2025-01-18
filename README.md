@@ -57,9 +57,6 @@ Saya memiliki minat yang besar di bidang:
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rifaldo-dev&theme=darcula&locale=id)](https://git.io/streak-stats)
-
-
 
 <p align="center">
   <!-- GitHub Streak -->
