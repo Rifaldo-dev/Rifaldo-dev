@@ -70,11 +70,6 @@ Saya memiliki minat yang besar di bidang:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldo-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Contributions Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rifaldo-dev&theme=tokyo-night&hide_border=true" alt="rifaldo-dev's GitHub Activity Graph" />
-</p>
-
 ---
 
 ### 🌱 **Tujuan Saya:**
@@ -99,5 +94,3 @@ Mengembangkan kemampuan dalam teknologi, mengasah kreativitas, serta membangun s
 Tetap jaga streak Anda dan jangan lupa mengejar progress coding harian!  
 
 ---
-
-<p align="center">Made with ❤️ by Rifaldo</p>
