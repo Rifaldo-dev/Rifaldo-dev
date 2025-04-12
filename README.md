@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Rifaldo</h1>
-<h3 align="center">Mahasiswa Sistem Informasi | Full Stack Developer | Tech Enthusiast</h3>
+<h3 align="center"> devOps | back-end |Tech Enthusiast</h3>
 
 ---
 
@@ -45,7 +45,7 @@ Saya memiliki minat yang besar di bidang:
 - Ubuntu, Debian, Windows  
 
 **Tools & Teknologi Tambahan:**  
-- Git, API Integration, Web Scraping  
+- Git, API Integration, Web Scraping, docker 
 
 ---
 
