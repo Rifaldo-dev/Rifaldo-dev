@@ -36,16 +36,16 @@ Saya memiliki minat yang besar di bidang:
 - MySQL, SQLite3  
 
 **Networking & Infrastruktur:**  
-- Mikrotik, Cisco Packet Tracer  
+- Mikrotik, Cisco Packet Tracer, fiber optic 
 
 **Frameworks & Tools:**  
 - Laravel, Django, Bootstrap, Bulma  
 
 **Operating System:**  
-- Ubuntu, Debian, Windows  
+- linux, Windows  
 
 **Tools & Teknologi Tambahan:**  
-- Git, API Integration, Web Scraping, docker 
+- Git, API Integration, Web Scraping, docker
 
 ---
 
