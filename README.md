@@ -7,6 +7,7 @@
 <hr />
 
 <!-- Visitor Count -->
+visitor count:
 <p align="center">
   <img src="https://profile-counter.glitch.me/rifaldo-dev/count.svg" alt="Visitor Count" />
 </p>
