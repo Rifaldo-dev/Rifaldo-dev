@@ -1,75 +1,68 @@
+# 👋 Hi there, I'm Aldo!
+
+✨ Selamat datang di profil GitHub saya ✨  
+Saya suka ngulik **Web Development, IoT, Jaringan, dan Bot Telegram**.  
+
+---
+
+## 🎶 Vibes for Coding
+
+🎧 **Now Playing**  
+![now playing](https://now-play.vercel.app/api/generate?uid=e0e02c76-de5f-4a1e-9e0f-a42242e31e01&theme=dark)
 
 
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Rifaldo</h1>
-<h3 align="center">DevOps | Backend Developer | Tech Enthusiast</h3>
+---
 
-<hr />
+## 👀 Profile Visitors
+![Visitor](https://komarev.com/ghpvc/?username=Rifaldo-dev&label=Visitor&color=ff69b4&style=flat)
+![Followers](https://img.shields.io/github/followers/Rifaldo-dev?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Rifaldo-dev?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-<!-- Visitor Count -->
-visitor count:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rifaldo-dev/count.svg" alt="Visitor Count" />
-</p>
+---
 
-<!-- Anime GIF Header -->
-<p align="center">
-  <!-- Hapus tanda kurung siku di src dan gunakan satu URL yang benar -->
-  <img src="https://media1.tenor.com/m/zMUNsugA5PoAAAAd/cats-cat.gif" alt="Anime GIF" width="250" />
-</p>
+## 🚀 Tech Stack & Tools
 
-### 🎓 Education
-- Bachelor of Information Systems, Universitas Metamedia  
-- Network Engineering Student, SMKN 1 Kinali  
-- SMPN 1 Luhak Nan Duo  
-- SDN 05 Luhak Nan Duo  
+💻 **Programming**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoSize=auto)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge&logoSize=auto)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoSize=auto)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge&logoSize=auto)
 
-<hr />
+🌐 **Web**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoSize=auto)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoSize=auto)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge&logoSize=auto)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&logoSize=auto)
 
-### 💻 Interests & Skills
-- Full Stack Programming, IoT, Machine Learning, Data Science  
-- Cyber Security, Web Development, Networking  
+⚙️ **Tools & Database**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoSize=auto)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&logoSize=auto)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoSize=auto)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&logoSize=auto)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&logoSize=auto)
 
-<hr />
+🔧 **Hardware & IoT**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge&logoSize=auto)
+![Networking](https://img.shields.io/badge/-Networking-0078D7?logo=cisco&logoColor=white&style=for-the-badge&logoSize=auto)
 
-### 🛠️ Skills
 
-| Frontend                   | Backend                      | Database        | Networking & Infrastructure |
-|----------------------------|------------------------------|-----------------|-----------------------------|
-| HTML, CSS, Bootstrap, Bulma | PHP, Python, Laravel, Django | MySQL, SQLite3  | Mikrotik, Cisco, Fiber Optic |
+---
 
-<hr />
+## 📊 GitHub Stats & Trophies
+| ![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rifaldo-dev&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=Rifaldo-dev&theme=tokyonight&hide_border=false) |
+| --- | --- |
 
-### ✨ Motivation
-> "There are many roads to Rome, just like many ways to learn technology. Keep exploring, innovating, and learning from every experience."
+![trophy](https://github-profile-trophy.vercel.app/?username=Rifaldo-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-<hr />
+---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifaldo-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rifaldo-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldo-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## 💡 Quote (Bill Gates)
+> *"Jika Anda terlahir miskin itu bukan salah Anda, tetapi jika Anda meninggal miskin itu salah Anda sendiri."*  
+— Bill Gates
 
-<hr />
+---
 
-### 📫 Connect with me
-<p align="center">
-  <a href="https://github.com/rifaldo-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/rifaldo.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" alt="Instagram" />
-  </a>
-  <a href="https://rifaldo.tech" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" width="30" alt="Dev.to" />
-  </a>
-  <a href="https://t.me/aku_aldo" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="30" alt="Telegram" />
-  </a>
-</p>
+## 📬 Let's Connect
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifaldo.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aku_aldo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrifaldosaputra@gmail.com)
