@@ -48,11 +48,9 @@ Saya suka ngulik **Web Development, IoT, Jaringan, dan Bot Telegram**.
 
 ---
 
-## 📊 GitHub Stats & Trophies
-| ![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rifaldo-dev&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=Rifaldo-dev&theme=tokyonight&hide_border=false) |
-| --- | --- |
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Rifaldo-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
+![rifaldo-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifaldo-dev&theme=vue-dark&hide_border=false)
+![rifaldo-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldo-dev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
