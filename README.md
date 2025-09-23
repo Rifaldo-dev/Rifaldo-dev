@@ -1,15 +1,32 @@
-# 👋 Hi there, I'm Aldo!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00000&height=200&section=header&text=👋%20Hi%20there,%20I'm%20Aldo!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=black" />
+</p>
 
 ✨ Selamat datang di profil GitHub saya ✨  
 Saya suka ngulik **Web Development, IoT, Jaringan, dan Bot Telegram**.  
 
 ---
 
-## 🎶 Vibes for Coding
+## 🚀 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,arduino,linux,git,vercel,netlify,cloudflare,wordpress,mysql,sqlite,postgres,docker,kali,debian,ubuntu,nginx,replit " />
+</p>
 
-🎧 **Now Playing**  
-![now playing](https://now-play.vercel.app/api/generate?uid=e0e02c76-de5f-4a1e-9e0f-a42242e31e01&theme=dark)
+---
 
+## 🎶 Spotify Recently Played
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kv7awkkrnno3543sfsvxmfcjtu&unique={true|1|on|yes})
+
+---
+
+## 📺 YouTube & Telegram Channel
+[![RifaldoSoft YouTube Stats](https://youtube-stats-card.vercel.app/api?channelid=UCLmWpq_1Trhh5FS9P_v_SdA&theme=dark)](https://www.youtube.com/channel/UCLmWpq_1Trhh5FS9P_v_SdA)
+![Base Daget Subscribers](https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/basedaget)
+![Salingsfs Subscribers](https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/salingsfs)
+![Telegram Subscribers](https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/dagetpink)
+![Telegram Subscribers](https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/mutualanrp)
+![Telegram Subscribers](https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/aldosoft)
+![Telegram Subscribers](https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/thr_spay)
 
 ---
 
@@ -17,34 +34,6 @@ Saya suka ngulik **Web Development, IoT, Jaringan, dan Bot Telegram**.
 ![Visitor](https://komarev.com/ghpvc/?username=Rifaldo-dev&label=Visitor&color=ff69b4&style=flat)
 ![Followers](https://img.shields.io/github/followers/Rifaldo-dev?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/Rifaldo-dev?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
----
-
-## 🚀 Tech Stack & Tools
-
-💻 **Programming**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoSize=auto)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge&logoSize=auto)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoSize=auto)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge&logoSize=auto)
-
-🌐 **Web**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoSize=auto)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoSize=auto)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge&logoSize=auto)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&logoSize=auto)
-
-⚙️ **Tools & Database**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoSize=auto)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&logoSize=auto)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoSize=auto)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&logoSize=auto)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&logoSize=auto)
-
-🔧 **Hardware & IoT**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge&logoSize=auto)
-![Networking](https://img.shields.io/badge/-Networking-0078D7?logo=cisco&logoColor=white&style=for-the-badge&logoSize=auto)
-
 
 ---
 
