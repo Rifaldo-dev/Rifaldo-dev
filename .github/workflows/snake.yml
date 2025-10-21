@@ -2,14 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # update setiap 12 jam
+    - cron: "0 0 * * *"   # jalan tiap 24 jam
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate snake.svg
@@ -18,7 +21,7 @@ jobs:
           github_user_name: rifaldo-dev
           outputs: dist/snake.svg
 
-      - name: Push generated snake.svg
+      - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
