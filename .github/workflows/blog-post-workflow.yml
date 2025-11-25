@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '*/5 * * * *' # stabil, jalan setiap 5 menit
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -9,13 +9,12 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest Rifaldo Medium posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in Medium posts (Rifaldo)
+      - name: Pull Medium posts via proxy
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rifaldo.medium.com/feed,https://medium.com/feed/@rifaldo"
+          feed_list: "https://feed.medium.com/@rifaldo"
