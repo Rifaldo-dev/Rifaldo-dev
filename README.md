@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:000000&height=200&section=header&text=👋%20Hi%20there,%20I'm%20Aldo!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:000000&height=200&section=header&text=👋%20Hi%20there,%20I'm%20rifaldo!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -48,6 +48,13 @@ Saya suka ngulik <b>Web Development, IoT, Jaringan, dan Bot Telegram</b>.
   <i>"Jika Anda terlahir miskin itu bukan salah Anda, tetapi jika Anda meninggal miskin itu salah Anda sendiri."</i><br>
   — Bill Gates
 </p>
+
+<h2 align="center">Medium</h2>
+
+### 📌 Latest Medium Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <h2 align="center">📬 Let's Connect</h2>
 <p align="center">
