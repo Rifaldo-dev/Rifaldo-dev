@@ -53,6 +53,8 @@ Saya suka ngulik <b>Web Development, IoT, Jaringan, dan Bot Telegram</b>.
 
 ### 📌 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Cara menghapus aaPanel sampai akar-akarnya &lpar;clean uninstall&rpar; dari Server kamu](https://rifaldo.medium.com/cara-menghapus-aapanel-sampai-akar-akarnya-clean-uninstall-dari-server-kamu-26a88f9ee384?source=rss-c3a08e220b7e------2)
+- [Cara Termudah Memulai Computer Vision dengan YOLO](https://rifaldo.medium.com/cara-termudah-memulai-computer-vision-dengan-yolo-8c4f2d5b44ac?source=rss-c3a08e220b7e------2)
 - [Cara Install aaPanel di Ubuntu atau Debian](https://rifaldo.medium.com/cara-install-aapanel-ubuntu-atau-debian-6d6a429e6d79?source=rss-c3a08e220b7e------2)
 - [Cara Pasang reCAPTCTA GOOGLE](https://rifaldo.medium.com/cara-pasang-recaptcta-google-f0f925d40ba8?source=rss-c3a08e220b7e------2)
 - [Mengenal Tentang Apache](https://rifaldo.medium.com/mengenal-tentang-apache-b7e6fbd932f9?source=rss-c3a08e220b7e------2)
