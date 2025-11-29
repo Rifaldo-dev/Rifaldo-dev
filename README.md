@@ -53,11 +53,11 @@ Saya suka ngulik <b>Web Development, IoT, Jaringan, dan Bot Telegram</b>.
 
 ### 📌 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [BTOP: Monitor Sistem Super Ringan yang Wajib Dimiliki Admin Linux](https://rifaldo.medium.com/btop-monitor-sistem-super-ringan-yang-wajib-dimiliki-admin-linux-ea16772d19e2?source=rss-c3a08e220b7e------2)
 - [Cara Mengatasi Error phpMyAdmin HY000/2002: No Connection Could Be Made &lpar;XAMPP&rpar;](https://rifaldo.medium.com/cara-mengatasi-error-phpmyadmin-hy000-2002-no-connection-could-be-made-xampp-cef6b864bf28?source=rss-c3a08e220b7e------2)
 - [Control Flow dalam PHP](https://rifaldo.medium.com/control-flow-dalam-php-4bc04f6e7932?source=rss-c3a08e220b7e------2)
 - [Cara menghapus aaPanel sampai akar-akarnya &lpar;clean uninstall&rpar; dari Server kamu](https://rifaldo.medium.com/cara-menghapus-aapanel-sampai-akar-akarnya-clean-uninstall-dari-server-kamu-26a88f9ee384?source=rss-c3a08e220b7e------2)
 - [Cara Termudah Memulai Computer Vision dengan YOLO](https://rifaldo.medium.com/cara-termudah-memulai-computer-vision-dengan-yolo-8c4f2d5b44ac?source=rss-c3a08e220b7e------2)
-- [Cara Install aaPanel di Ubuntu atau Debian](https://rifaldo.medium.com/cara-install-aapanel-ubuntu-atau-debian-6d6a429e6d79?source=rss-c3a08e220b7e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
