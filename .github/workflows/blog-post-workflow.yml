@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull Medium posts via proxy
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feed.medium.com/@rifaldo"
