@@ -5,12 +5,7 @@
 <p align="center">
   <!-- Visitors -->
   <img src="https://komarev.com/ghpvc/?username=Rifaldo-dev&label=Visitors&color=0E75B6&style=flat"/>
-
-  <br><br>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifaldo-dev&theme=default&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaldo-dev&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifaldo-dev&theme=vue-dark&hide_border=false"/>
 </p>
 
 <h2 align="center">Medium Articles</h2>
