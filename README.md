@@ -121,6 +121,15 @@
 - [Cara Mengatasi Error phpMyAdmin HY000/2002: No Connection Could Be Made &lpar;XAMPP&rpar;](https://rifaldo.medium.com/cara-mengatasi-error-phpmyadmin-hy000-2002-no-connection-could-be-made-xampp-cef6b864bf28?source=rss-c3a08e220b7e------2)
 <!-- BLOG-POST-LIST:END -->
 
+## 🎥 Latest YouTube Videos
+
+<!-- YouTube:START -->
+<!-- YouTube:END -->
+
+> ➕ [View More...](https://youtube.com/@rifaldosaputra)
+
+---
+
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
