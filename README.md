@@ -126,7 +126,7 @@
 <!-- YouTube:START -->
 <!-- YouTube:END -->
 
-> ➕ [View More...](https://youtube.com/@rifaldosaputra)
+> ➕ [View More...](https://youtube.com/@rifaldosoft)
 
 ---
 
