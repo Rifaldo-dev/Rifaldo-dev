@@ -124,6 +124,11 @@
 ## 🎥 Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [Setup Envoiorments PHP di Windows || jalankan php tanpa start xampp](https://www.youtube.com/watch?v=NmSRDM_A8LA)
+- [Notifikasi Pembayaran Lynk.id ke Telegram Otomatis!](https://www.youtube.com/watch?v=7b6REfFxHP4)
+- [Auto Notif Telegram dari Google Form | Google Apps Script Tutorial](https://www.youtube.com/watch?v=stfZdtqrSQY)
+- [Cara Membuat Email Custom Menggunakan Webuzo](https://www.youtube.com/watch?v=QyaQcSIZBxo)
+- [Cara Mendapatkan VPS Gratis](https://www.youtube.com/watch?v=WoWCwX_S4hw)
 <!-- YouTube:END -->
 
 > ➕ [View More...](https://youtube.com/@rifaldosoft)
