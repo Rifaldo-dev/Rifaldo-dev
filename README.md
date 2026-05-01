@@ -124,11 +124,11 @@
 ## 🎥 Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [Cara Mengetahui Peforma Website Dengan Lighthouse](https://www.youtube.com/watch?v=Cg4v29BpzY0)
 - [Cara Klaim Hosting Gratis | tanpa riber](https://www.youtube.com/watch?v=UhqGyG7dANc)
 - [Setup Envoiorments PHP di Windows || jalankan php tanpa start xampp](https://www.youtube.com/watch?v=NmSRDM_A8LA)
 - [Notifikasi Pembayaran Lynk.id ke Telegram Otomatis!](https://www.youtube.com/watch?v=7b6REfFxHP4)
 - [Auto Notif Telegram dari Google Form | Google Apps Script Tutorial](https://www.youtube.com/watch?v=stfZdtqrSQY)
-- [Cara Membuat Email Custom Menggunakan Webuzo](https://www.youtube.com/watch?v=QyaQcSIZBxo)
 <!-- YouTube:END -->
 
 > ➕ [View More...](https://youtube.com/@rifaldosoft)
