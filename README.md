@@ -114,11 +114,11 @@
 ## 📚 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dari Foto ke Teks: Cara Kerja OCR Secara Sederhana](https://medium.com/kafekoding/dari-foto-ke-teks-cara-kerja-ocr-secara-sederhana-43c96a111352?source=rss-c3a08e220b7e------2)
 - [Kenapa Variabel Sebaiknya Pakai Bahasa Inggris, Bukan Bahasa Indonesia?](https://medium.com/kafekoding/kenapa-variabel-sebaiknya-pakai-bahasa-inggris-bukan-bahasa-indonesia-40e23323ab3b?source=rss-c3a08e220b7e------2)
 - [Satu Proyek, Banyak Peran: Ujian Akhir Kelas Gabungan Komunitas Kafekoding](https://medium.com/kafekoding/satu-proyek-banyak-peran-ujian-akhir-kelas-gabungan-komunitas-kafekoding-c1821b5a4dea?source=rss-c3a08e220b7e------2)
 - [Cara Mengetahui Peforma Website dengan Lighthouse](https://rifaldo.medium.com/cara-mengetahui-peforma-website-dengan-lighthouse-cf82590ddfc6?source=rss-c3a08e220b7e------2)
 - [Ketika Isu Viral Menjadi Ladang Kejahatan Digital](https://rifaldo.medium.com/ketika-isu-viral-menjadi-ladang-kejahatan-digital-08825f830e10?source=rss-c3a08e220b7e------2)
-- [Sherlock tool open-source menemukan username di banyak platform sosial media](https://rifaldo.medium.com/sherlock-tool-open-source-menemukan-username-di-banyak-platform-sosial-media-99f55d3b63bf?source=rss-c3a08e220b7e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎥 Latest YouTube Videos
