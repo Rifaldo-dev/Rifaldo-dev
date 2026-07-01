@@ -121,22 +121,6 @@
 - [Ketika Isu Viral Menjadi Ladang Kejahatan Digital](https://rifaldo.medium.com/ketika-isu-viral-menjadi-ladang-kejahatan-digital-08825f830e10?source=rss-c3a08e220b7e------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📁 Daftar Project Saya
-
-<!-- PROJECT-LIST:START -->
-<table>
-  <tr>
-    <td width="60" align="center">
-      <img src="https://image.thum.io/get/width/64/crop/64/https://ayo.ungkapin.my.id" width="40" height="40" style="border-radius:8px"/>
-    </td>
-    <td>
-      <strong><a href="https://ayo.ungkapin.my.id">ayo ungkapin</a></strong><br/>
-      <sub>🔑 ID: <code>V1PFH</code> &nbsp;|&nbsp; 🔴 nonaktif</sub>
-    </td>
-  </tr>
-</table>
-<!-- PROJECT-LIST:END -->
-
 ## 🎥 Latest YouTube Videos
 
 <!-- YouTube:START -->
