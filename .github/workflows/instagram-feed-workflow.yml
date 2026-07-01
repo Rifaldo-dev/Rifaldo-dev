@@ -1,0 +1,18 @@
+name: Latest Instagram Feed Workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-instagram:
+    name: Update this repo's README with latest Instagram feed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: alqueraf/instagram-feed-action@master
+        with:
+          account: "rifaldo.log"
+          max_post_count: 10
+          image_size: 200
+          image_margin: 10
