@@ -140,7 +140,7 @@
 <!-- INSTAGRAM-FEED:START -->
 <!-- INSTAGRAM-FEED:END -->
 
-> ➕ [View More...](https://instagram.com/rifaldo.dev)
+> ➕ [View More...](https://instagram.com/rifaldo.log)
 
 ---
 
@@ -149,7 +149,7 @@
 <div align="center">
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rifaldo.medium.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifaldo.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifaldo.log)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aku_aldo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrifaldosaputra@gmail.com)
 
